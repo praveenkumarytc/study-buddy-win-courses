@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "332449268465",
+    "project_id": "study-buddy-earn-course",
+    "storage_bucket": "study-buddy-earn-course.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332449268465:android:09e7adafbbe9fd22789f50",
+        "android_client_info": {
+          "package_name": "com.studybuddy.study_buddy_courses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332449268465-55e9dn59kpu873vogrueo11pch6sfik8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studybuddy.study_buddy_courses",
+            "certificate_hash": "76793df471fec05108762dd2b343680a4c557d63"
+          }
+        },
+        {
+          "client_id": "332449268465-2v7822qebmfff0m8bomtgld00aenhqlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuFwfyhsRrShGkhSUKNXGy5nWuOWCAXwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332449268465-2v7822qebmfff0m8bomtgld00aenhqlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
